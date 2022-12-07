@@ -10,3 +10,6 @@
 
 4-LED on-off using LDR
 ![Screenshot (64)](https://user-images.githubusercontent.com/119843001/206101130-d8cf78f9-b847-4ead-86dd-ac4bc1e6c1ba.png)
+
+5-distance using ULTRA SONIC SENSOR
+![Screenshot (65)](https://user-images.githubusercontent.com/119843001/206101407-7f9db756-b989-450b-aded-1016564c3403.png)
