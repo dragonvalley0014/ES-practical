@@ -16,3 +16,6 @@
 
 6-BUZZER
 ![Screenshot (66)](https://user-images.githubusercontent.com/119843001/206101689-d9c72fbc-7bbc-456a-8864-5dc1387991aa.png)
+
+7-segment display
+![Screenshot (67)](https://user-images.githubusercontent.com/119843001/206102036-4b824c8d-2f62-4359-95f7-f8242b300962.png)
