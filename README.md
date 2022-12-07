@@ -13,3 +13,6 @@
 
 5-distance using ULTRA SONIC SENSOR
 ![Screenshot (65)](https://user-images.githubusercontent.com/119843001/206101407-7f9db756-b989-450b-aded-1016564c3403.png)
+
+6-BUZZER
+![Screenshot (66)](https://user-images.githubusercontent.com/119843001/206101689-d9c72fbc-7bbc-456a-8864-5dc1387991aa.png)
